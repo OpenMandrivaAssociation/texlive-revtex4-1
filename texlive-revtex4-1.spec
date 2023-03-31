@@ -1,6 +1,6 @@
 Name:		texlive-revtex4-1
 Version:	56590
-Release:	1
+Release:	2
 Summary:	Styles for various Physics Journals
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/revtex4-1
